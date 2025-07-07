@@ -45,10 +45,12 @@
 - Developer tốn thời gian.
 
 ### 👥 1.3 Stakeholder Impact
-| Đối tượng        |   Ảnh hưởng                              |  
-|------------------|------------------------------------------|
-| Developer        | Tốn thời gian viết backend               |
-| Doanh nghiệp     | Tăng chi phí & thời gian                 |
+
+| Đối tượng     | Ảnh hưởng                       |
+|---------------|---------------------------------|
+| Developer     | Tốn thời gian viết backend      |
+| Doanh nghiệp  | Tăng chi phí và thời gian phát triển |
+
 
 ### 💥 1.4 Business Consequences
 - Giảm tốc độ triển khai sản phẩm.
